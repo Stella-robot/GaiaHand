@@ -1,5 +1,9 @@
 ### **Project Title:**
 
+<p align="center">
+  <img src="assets/hand1.png" alt="GaiaHand Render" width="150"/>
+</p>
+
 **GaiaHand: An Open-Source Five-Fingered Dexterous Hand Based on Modular Joints**
 
 ### **Short Description:**
@@ -11,6 +15,8 @@ A high-performance, low-cost, and easily replicable five-fingered dexterous hand
 **GaiaHand** is an open-source, five-fingered dexterous hand project designed to provide robotics researchers, developers, and enthusiasts with a high-performance, low-cost, and easy-to-assemble hardware platform. We believe that a modular design philosophy can significantly reduce the design and maintenance costs of dexterous hands, accelerating iteration and innovation across various applications.
 
 The core of this dexterous hand's design is its independently actuated joint modules. Each finger is constructed by connecting several of these modules in series, mimicking the degrees of freedom of a human hand. This approach not only simplifies the mechanical structure but also makes repairs and replacements exceptionally straightforward¡ªsimply swap out a faulty joint module without needing to disassemble the entire palm.
+
+<video src="assets/grasp.mp4" controls width="600"></video>
 
 **Key Features:**
 
