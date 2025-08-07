@@ -10,13 +10,19 @@
 
 A high-performance, low-cost, and easily replicable five-fingered dexterous hand project featuring a modular joint design to empower robotics research and development.
 
+<p align="center">
+  <img src="assets/boowhowoer.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
+
 ### **Long Description:**
 
 **GaiaHand** is an open-source, five-fingered dexterous hand project designed to provide robotics researchers, developers, and enthusiasts with a high-performance, low-cost, and easy-to-assemble hardware platform. We believe that a modular design philosophy can significantly reduce the design and maintenance costs of dexterous hands, accelerating iteration and innovation across various applications.
 
-The core of this dexterous hand's design is its independently actuated joint modules. Each finger is constructed by connecting several of these modules in series, mimicking the degrees of freedom of a human hand. This approach not only simplifies the mechanical structure but also makes repairs and replacements exceptionally straightforward¡ªsimply swap out a faulty joint module without needing to disassemble the entire palm.
+The core of this dexterous hand's design is its independently actuated joint modules. Each finger is constructed by connecting several of these modules in series, mimicking the degrees of freedom of a human hand. This approach not only simplifies the mechanical structure but also makes repairs and replacements exceptionally straightforward, simply swap out a faulty joint module without needing to disassemble the entire palm.
 
-<video src="assets/grasp.mp4" controls width="600"></video>
+<p align="center">
+  <img src="assets/treattime.gif" alt="GaiaHand Demo GIF" width="400"/>
+</p>
 
 **Key Features:**
 
@@ -51,3 +57,29 @@ We enthusiastically welcome contributions of all kinds! Whether you are a hardwa
 *   **Discussions:** Share your building experiences and application showcases.
 
 Let's build the next generation of high-performance, accessible dexterous hands together
+
+**Grasp example:**
+<p align="center">
+  <img src="assets/boowhowoer.gif" alt="GaiaHand Demo GIF" width="400"/>
+</p>
+<p align="center">
+  <img src="assets/treattime.gif" alt="GaiaHand Demo GIF" width="400"/>
+</p>
+<p align="center">
+  <img src="assets/toys.gif" alt="GaiaHand Demo GIF" width="400"/>
+</p>
+<p align="center">
+  <img src="assets/hexdriver.gif" alt="GaiaHand Demo GIF" width="400"/>
+</p>
+<p align="center">
+  <img src="assets/module.gif" alt="GaiaHand Demo GIF" width="400"/>
+</p>
+<p align="center">
+  <img src="assets/book.gif" alt="GaiaHand Demo GIF" width="400"/>
+</p>
+<p align="center">
+  <img src="assets/apple.gif" alt="GaiaHand Demo GIF" width="400"/>
+</p>
+<p align="center">
+  <img src="assets/peach.gif" alt="GaiaHand Demo GIF" width="400"/>
+</p>
