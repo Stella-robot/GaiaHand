@@ -14,12 +14,12 @@ The core of this dexterous hand's design is its independently actuated joint mod
 
 **Key Features:**
 
-*   **? Modular Design:** Based on independent, hot-swappable joint modules for easy assembly, customization, and maintenance.
-*   **?? Highly Dexterous:** Equipped with multiple Degrees of Freedom (DoF) to emulate a wide range of complex human grasping and manipulation poses.
-*   **? Low-Cost Solution:** Utilizes off-the-shelf brushless motors and 3D-printed structural parts to significantly reduce manufacturing costs.
-*   **? Easy to Integrate:** Provides a standard UART communication interface for seamless integration into existing robotic systems.
-*   **? Fully Open-Source:** All hardware design files (CAD), electronics (PCB), and host computer software are open-sourced under the MIT License.
-*   **? Community Driven:** We welcome all forms of community contributions, whether it's code, design improvements, or sharing application use-cases.
+*   **Modular Design:** Based on independent, hot-swappable joint modules for easy assembly, customization, and maintenance.
+*   **Highly Dexterous:** Equipped with multiple Degrees of Freedom (DoF) to emulate a wide range of complex human grasping and manipulation poses.
+*   **Low-Cost Solution:** Utilizes off-the-shelf brushless motors and 3D-printed structural parts to significantly reduce manufacturing costs.
+*   **Easy to Integrate:** Provides a standard UART communication interface for seamless integration into existing robotic systems.
+*   **Fully Open-Source:** All hardware design files (CAD), electronics (PCB), and host computer software are open-sourced under the MIT License.
+*   **Community Driven:** We welcome all forms of community contributions, whether it's code, design improvements, or sharing application use-cases.
 
 **Technical Specifications (Example):**
 
