@@ -1,16 +1,25 @@
 ### 项目标题：
 
 **GaiaHand: 一款基于模块化关节的开源五指灵巧手**
+<p align="center">
+  <img src="assets/hand1.png" alt="GaiaHand Render" width="300"/>
+</p>
 
 ### 项目简介:
 
 一个高性能、低成本、易于复现的五指灵巧手项目，采用模块化关节设计，助力机器人研究与开发。
+<p align="center">
+  <img src="assets/boowhowoer.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
 
 ### 描述:
 
 **GaiaHand** 是一个开源的五指灵巧手项目，旨在为机器人研究人员、开发者和爱好者提供一个高性能、低成本且易于搭建的硬件平台。我们相信，通过模块化的设计理念，可以显著降低灵巧手的设计和维护成本，并加速其在不同应用场景下的迭代与创新。
 
 该灵巧手的设计核心是可独立驱动的关节模组。每个手指由多个这样的模块串联而成，模拟人手的运动自由度。这种设计不仅简化了机械结构，也使得维修和替换变得异常轻松——您只需要更换故障的关节模块，而无需拆解整个手掌。
+<p align="center">
+  <img src="assets/treattime.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
 
 **主要特性:**
 
@@ -45,3 +54,28 @@
 *   **Discussions:** 分享您的制作经验和应用案例。
 
 让我们一起构建下一代高性能、易于普及的灵巧手！
+**抓取示例：**
+<p align="center">
+  <img src="assets/boowhowoer.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
+<p align="center">
+  <img src="assets/treattime.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
+<p align="center">
+  <img src="assets/toys.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
+<p align="center">
+  <img src="assets/hexdriver.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
+<p align="center">
+  <img src="assets/module.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
+<p align="center">
+  <img src="assets/book.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
+<p align="center">
+  <img src="assets/apple.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>
+<p align="center">
+  <img src="assets/peach.gif" alt="GaiaHand Demo GIF" width="500"/>
+</p>

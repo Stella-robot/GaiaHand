@@ -1,15 +1,13 @@
 ### **Project Title:**
 
-<p align="center">
-  <img src="assets/hand1.png" alt="GaiaHand Render" width="150"/>
-</p>
-
 **GaiaHand: An Open-Source Five-Fingered Dexterous Hand Based on Modular Joints**
+<p align="center">
+  <img src="assets/hand1.png" alt="GaiaHand Render" width="300"/>
+</p>
 
 ### **Short Description:**
 
 A high-performance, low-cost, and easily replicable five-fingered dexterous hand project featuring a modular joint design to empower robotics research and development.
-
 <p align="center">
   <img src="assets/boowhowoer.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
@@ -21,7 +19,7 @@ A high-performance, low-cost, and easily replicable five-fingered dexterous hand
 The core of this dexterous hand's design is its independently actuated joint modules. Each finger is constructed by connecting several of these modules in series, mimicking the degrees of freedom of a human hand. This approach not only simplifies the mechanical structure but also makes repairs and replacements exceptionally straightforward, simply swap out a faulty joint module without needing to disassemble the entire palm.
 
 <p align="center">
-  <img src="assets/treattime.gif" alt="GaiaHand Demo GIF" width="400"/>
+  <img src="assets/treattime.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
 
 **Key Features:**
@@ -43,7 +41,7 @@ The core of this dexterous hand's design is its independently actuated joint mod
 
 **Repository Contents:**
 
-*   `/hardware`: Contains all 3D models (STEP, STL), schematics, and PCB design files (Gerber, Schematics).
+*   `/hardware`: Contains all 3D models (STEP, STL), schematics, and PCB design files (Gerber, Schematics in upcoming).
 *   `/firmware`: Firmware for the joint modules.
 *   `/software`: Python SDK, control algorithm examples, and ROS/ROS2 packages (Coming soon).
 *   `/docs`: Detailed assembly guides, Bill of Materials (BOM), and development documentation.
@@ -60,26 +58,26 @@ Let's build the next generation of high-performance, accessible dexterous hands 
 
 **Grasp example:**
 <p align="center">
-  <img src="assets/boowhowoer.gif" alt="GaiaHand Demo GIF" width="400"/>
+  <img src="assets/boowhowoer.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
 <p align="center">
-  <img src="assets/treattime.gif" alt="GaiaHand Demo GIF" width="400"/>
+  <img src="assets/treattime.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
 <p align="center">
-  <img src="assets/toys.gif" alt="GaiaHand Demo GIF" width="400"/>
+  <img src="assets/toys.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
 <p align="center">
-  <img src="assets/hexdriver.gif" alt="GaiaHand Demo GIF" width="400"/>
+  <img src="assets/hexdriver.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
 <p align="center">
-  <img src="assets/module.gif" alt="GaiaHand Demo GIF" width="400"/>
+  <img src="assets/module.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
 <p align="center">
-  <img src="assets/book.gif" alt="GaiaHand Demo GIF" width="400"/>
+  <img src="assets/book.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
 <p align="center">
-  <img src="assets/apple.gif" alt="GaiaHand Demo GIF" width="400"/>
+  <img src="assets/apple.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
 <p align="center">
-  <img src="assets/peach.gif" alt="GaiaHand Demo GIF" width="400"/>
+  <img src="assets/peach.gif" alt="GaiaHand Demo GIF" width="500"/>
 </p>
