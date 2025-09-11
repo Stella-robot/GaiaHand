@@ -41,7 +41,7 @@ The core of this dexterous hand's design is its independently actuated joint mod
 
 **Repository Contents:**
 
-*   `/hardware`: Contains all 3D models (STEP, STL), schematics, and PCB design files (Gerber, Schematics in upcoming).
+*   `/hardware`: Contains all 3D models (STEP, STL), schematics, and PCB design files.
 *   `/firmware`: Firmware for the joint modules.
 *   `/software`: Python SDK, control algorithm examples, and ROS/ROS2 packages (Coming soon).
 *   `/docs`: Detailed assembly guides, Bill of Materials (BOM), and development documentation.
