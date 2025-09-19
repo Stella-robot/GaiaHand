@@ -1,0 +1,28 @@
+# 包含README文件
+include README.md
+
+# 包含通信协议文档
+include 通信协议.md
+
+# 包含requirements文件
+include requirements.txt
+
+# 包含所有Python文件
+recursive-include hand *.py
+
+# 包含所有__init__.py文件
+recursive-include hand __init__.py
+
+# 排除Python缓存文件
+global-exclude *.pyc
+global-exclude *.pyo
+global-exclude __pycache__
+
+# 排除测试文件
+global-exclude test_*.py
+global-exclude *_test.py
+
+# 排除开发工具配置文件
+global-exclude .git*
+global-exclude .vscode
+global-exclude .idea 

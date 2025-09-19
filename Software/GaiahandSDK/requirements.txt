@@ -1,0 +1,28 @@
+# 手部控制模块依赖包
+
+# 串口通信
+pyserial>=3.5
+
+# 数值计算
+numpy>=1.21.0
+
+# 类型提示支持
+typing-extensions>=4.0.0
+
+# 日志记录
+# logging 是Python标准库，无需额外安装
+
+# 数学计算
+# math 是Python标准库，无需额外安装
+
+# 时间处理
+# time 是Python标准库，无需额外安装
+
+# 线程处理
+# threading 是Python标准库，无需额外安装
+
+# 数据结构
+# abc, enum 是Python标准库，无需额外安装
+
+# 文件系统操作
+# os, glob, platform 是Python标准库，无需额外安装 
